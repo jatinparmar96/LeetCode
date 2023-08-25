@@ -1,0 +1,9 @@
+{
+    "ts-node": {
+        "compiler": "typescript",
+        "typeCheck": true
+    },
+    "compilerOptions": {
+        "lib": ["ES2017","DOM"]
+    }
+}
