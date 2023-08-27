@@ -4,6 +4,7 @@
         "typeCheck": true
     },
     "compilerOptions": {
-        "lib": ["ES2017","DOM"]
+        "lib": ["ES2017","DOM"],
+        "target": "ES2016"
     }
 }
